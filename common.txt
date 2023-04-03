@@ -4,6 +4,6 @@
 --
 5
 --
-LUCKY 7
+UNLUCKY 7
 --
 9
